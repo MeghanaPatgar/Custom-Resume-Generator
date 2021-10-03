@@ -1,0 +1,41 @@
+#main {
+    background-color: #333;
+    width: 600px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+h1 {
+    color: white;
+    background-color: grey;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+
+.text {
+    background-color: #333;
+    color: white;
+    width: 250px;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+}
+.new a{
+color:#a8a2a2;
+}
+
+.text:focus {
+    outline: none;
+}
+
+hr {
+    width: 250px;
+    margin-top: 0px !important;
+}
+
+#sub {
+    width: 250px;
+    height: 30px;
+    background-color: #5f5;
+    border: none;
+}
